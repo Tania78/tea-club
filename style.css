@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+
+:root {
+	--main-color: #4C3A32
+	--accent-color: white;
+    font-family:'Playfair Display', sans-serif;
+}
+header .card h1{
+	font-family:'Playfair Display', sans-serif;
+	font-size: 600%;
+	color:#FFFFFF;
+    text-align: center;
+    height: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+header .collapse {
+    color:#8FAD3B;
+	border: 1px solid transparent;
+	padding: 20px;
+    flex: 1;
+	justify-content:flex-end;
+
+}
+.navbar-light .navbar-nav .nav-link {
+    color:#8FAD3B;
+}
+main .row {
+      display: flex;
+  justify-content: center;
+}
+main section h2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#carouselProducts  div img{
+    width:600px;
+    margin:auto;
+}
