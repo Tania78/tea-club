@@ -10,8 +10,7 @@ header .card h1{
 	font-size: 600%;
 	color:#FFFFFF;
     text-align: center;
-    height: 10em;
-    display: flex;
+    height: 10em;    
     align-items: center;
     justify-content: center
 }
