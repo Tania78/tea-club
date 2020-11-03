@@ -12,7 +12,7 @@ header .card h1{
     text-align: center;
     height: 10em;    
     align-items: center;
-    justify-content: center
+    justify-content: center;
 }
 header .collapse {
     color:#8FAD3B;
@@ -98,6 +98,10 @@ form .row {
   display: inline-block;  
 }
 header .navbar-brand p {
-    color:#8FAD3B;
+    color:#8FAD3B;    
+}
+header .collapse {
+    font-family:'Playfair Display', sans-serif;
+    font-size: 140%;
 }
 
